@@ -1,0 +1,65 @@
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\thanh\source\repos\Quanlicuahangdienthoai\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+D:\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.csprojAssemblyReference.cache
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+D:\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.csprojAssemblyReference.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.csprojAssemblyReference.cache
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Desktop\project1\Quanlisinhvien-main (1)\Quanlisinhvien-main\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.csprojAssemblyReference.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+C:\Users\Adminstrator\Downloads\Quanlisinhvien-main (2)\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache
